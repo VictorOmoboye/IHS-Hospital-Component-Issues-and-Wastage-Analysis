@@ -25,3 +25,5 @@ structured analysis.
 
 - **Analysis & Visualization:** Used Power BI to generate trendline charts and
 visualizations, uncovering correlations and patterns in issues and wastage.
+
+# Thank you for reading. Still under contruction, Check back later...... 

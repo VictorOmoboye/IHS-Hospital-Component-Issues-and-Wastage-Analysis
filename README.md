@@ -9,5 +9,19 @@ The **NHS Blood Stocks Management Scheme (BSMS)** aims to enhance blood inventor
 ## PROBLEM STATEMENT
 - Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
 ## AIM OF THE PROJECT
-
+- To identify trends and correlations to optimize inventory management
+and reduce wastage.
 ## METHODOLOGY 
+- Business Understanding: Defined project objectives to analyze trends in hospital
+component issues and wastage.
+- **Data Understanding:** Explored the dataset to identify key features and
+relationships for analysis.
+
+- **ETL Process:** Extracted, transformed, and loaded the data into Power BI for
+compatibility and analysis.
+
+- **Data Modeling:** Created relationships between fact and dimension tables for
+structured analysis.
+
+- **Analysis & Visualization:** Used Power BI to generate trendline charts and
+visualizations, uncovering correlations and patterns in issues and wastage.

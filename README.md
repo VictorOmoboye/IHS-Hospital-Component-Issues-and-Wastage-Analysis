@@ -7,7 +7,7 @@ The **NHS Blood Stocks Management Scheme (BSMS)** aims to enhance blood inventor
 ![image](https://github.com/user-attachments/assets/b256cb67-793a-4229-94ab-b1581ecf4cad)
 
 ## PROBLEM STATEMENT
-
+- Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
 ## AIM OF THE PROJECT
 
 ## METHODOLOGY 

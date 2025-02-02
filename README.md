@@ -12,7 +12,7 @@ The **NHS Blood Stocks Management Scheme (BSMS)** aims to enhance blood inventor
 - To identify trends and correlations to optimize inventory management
 and reduce wastage.
 ## METHODOLOGY 
-- Business Understanding: Defined project objectives to analyze trends in hospital
+- **Business Understanding:** Defined project objectives to analyze trends in hospital
 component issues and wastage.
 - **Data Understanding:** Explored the dataset to identify key features and
 relationships for analysis.

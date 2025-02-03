@@ -12,18 +12,18 @@ The **NHS Blood Stocks Management Scheme (BSMS)** aims to enhance blood inventor
 - To identify trends and correlations to optimize inventory management
 and reduce wastage.
 ## METHODOLOGY 
-- **Business Understanding:** Defined project objectives to analyze trends in hospital
+- **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
 component issues and wastage.
-- **Data Understanding:** Explored the dataset to identify key features and
+- **Data Understanding:** I explored the dataset to identify key features and
 relationships for analysis.
 
-- **ETL Process:** Extracted, transformed, and loaded the data into Power BI for
+- **ETL Process:** I extracted, transformed, and loaded the data into Power BI for
 compatibility and analysis.
 
-- **Data Modeling:** Created relationships between fact and dimension tables for
+- **Data Modeling:** I created relationships between fact and dimension tables for
 structured analysis.
 
-- **Analysis & Visualization:** Used Power BI to generate trendline charts and
+- **Analysis & Visualization:** I used Power BI to generate trendline charts and
 visualizations, uncovering correlations and patterns in issues and wastage.
 
 # Thank you for reading. Still under contruction, Check back later...... 

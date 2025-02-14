@@ -82,11 +82,3 @@ The data modeling for this project follows a star schema approach, where the **F
 ## THANK YOU
 For more information, you can contact me
 ![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
-
-
-
-
-
-
-
-# Thank you for reading. Still under contruction, Check back later...... 

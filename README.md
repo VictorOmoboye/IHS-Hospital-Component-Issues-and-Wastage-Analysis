@@ -51,6 +51,37 @@ An analysis of component issue trends by product group reveals that Red Blood Ce
 An analysis of component issue trends by product group reveals display that Platelet wastage exhibited a consistent upward trend from Q4 2022 to Q4 2023, while component issues fluctuated across the quarters.
 ![image](https://github.com/user-attachments/assets/e0d83fc2-991c-48d9-895d-62ff1fa3ddcd)
 
+An analysis of component issue trends by product group reveals Adult FFP wastage spiked in Q2 2023, while component issues followed a downward trend across the quarters.
+![image](https://github.com/user-attachments/assets/cd0ef693-f6b6-431f-a2e3-41423124b845)
+
+A Negative Blood Group Issues peaked in Q1 2023 and declined through Q2 and Q3, while wastage surged in Q2 before declining in Q3. This indicates a potential mismatch between demand and supply, highlighting the need for improved forecasting and inventory adjustments to minimize wastage.
+![image](https://github.com/user-attachments/assets/7abe224c-240e-41d4-920e-aeeff3e15a3d)
+
+O Negative Blood Group Issues declined in Q3 2022, while wastage peaked in Q1–Q2 2023 before declining in Q3. This trend suggests potential inefficiencies in stock utilization, emphasizing the need for optimized allocation strategies to reduce wastage while ensuring adequate supply.
+![image](https://github.com/user-attachments/assets/56b9f349-b366-4b32-9815-7fcaaaf6caec)
+
+Red Cells have the highest units in both Issues (76.28%) and Wastage (44.78%). Platelets and Adult FFP follow in respective distributions, with Platelets having more Issues and Adult FFP having more Wastage. This highlights the need for targeted inventory controls, especially for Red Cells, to minimize wastage while maintaining adequate supply levels.
+![image](https://github.com/user-attachments/assets/ce732bbe-53e5-4187-8c10-fbc689db302d)
+
+Root Cause of Wastage: Time Expiry (TIMEX) is the primary contributor, responsible for 31% of total wastage units, followed by TTMH at 15%, highlighting the need for improved stock rotation and demand forecasting strategies.
+![image](https://github.com/user-attachments/assets/7d8f0e85-88ca-43d7-8548-d265d4c9e786)
+
+
+## RECOMMENDATION
+- **Target Top Wastage Causes:** Focus on minimizing the top 10 wastage drivers, especially Time Expiry (TIMEX), which contributes the most to wastage.
+
+- **Optimize RBC Management:** Monitor and manage Red Blood Cell (RBC) stocks carefully due to their consistently high issues and wastage volumes.
+
+- **Adjust for Seasonal Trends:** Align inventory strategies with seasonal and quarterly trends to prevent overstocking during low-demand periods and shortages during peak wastage times (e.g., Q2–Q3 2023).
+
+- **Blood Group-Specific Allocation:** Tailor inventory levels for key blood groups like O Negative and A Negative to address fluctuations in issues and wastage effectively.
+
+- **Enhanced Monitoring of Platelets and Frozen Components:** Closely track and address rising wastage trends in Platelets and Adult FFP, particularly the surges observed in Q1–Q3 2023.
+
+
+
+
+
 
 
 

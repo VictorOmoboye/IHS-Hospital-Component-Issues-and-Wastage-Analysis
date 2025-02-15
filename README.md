@@ -48,10 +48,10 @@ The data modeling for this project follows a star schema approach, where the **F
 - An analysis of component issue trends by product group reveals that Red Blood Cell (RBC) issues remained consistently high throughout the three-year period (2022–2024), significantly surpassing other components. Platelet (PLT) issues ranked second, while Pooled Cryo recorded the lowest issue volumes across all years.
 ![image](https://github.com/user-attachments/assets/7e191e09-b28a-4942-b73f-749e5f626daf)
 
-- An analysis of component issue trends by product group reveals display that Platelet wastage exhibited a consistent upward trend from Q4 2022 to Q4 2023, while component issues fluctuated across the quarters.
+- Platelets wastage trended upward from Q4 2022 to Q4 2023, peaking between Q1 and Q3 2023, while issues fluctuated across the quarters, indicating a potential mismatch between demand and inventory management.
 ![image](https://github.com/user-attachments/assets/e0d83fc2-991c-48d9-895d-62ff1fa3ddcd)
 
-- An analysis of component issue trends by product group reveals Adult FFP wastage spiked in Q2 2023, while component issues followed a downward trend across the quarters.
+- Adult FFP wastage surged in Q2 2023, peaking significantly before declining in subsequent quarters, while issues displayed a consistent downtrend, highlighting a potential inefficiency in demand forecasting and stock utilization.
 ![image](https://github.com/user-attachments/assets/cd0ef693-f6b6-431f-a2e3-41423124b845)
 
 - A Negative Blood Group Issues peaked in Q1 2023 and declined through Q2 and Q3, while wastage surged in Q2 before declining in Q3. This indicates a potential mismatch between demand and supply, highlighting the need for improved forecasting and inventory adjustments to minimize wastage.

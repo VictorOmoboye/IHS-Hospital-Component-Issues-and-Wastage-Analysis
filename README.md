@@ -1,10 +1,10 @@
-# NHS HOSPITAL COMPONENT ISSUES & WASTAGE ANALYSIS 
+# IHS HOSPITAL COMPONENT ISSUES & WASTAGE ANALYSIS 
 ## Leveraging MS Excel and Power BI to Optimize Blood Component Management by Uncovering Insights into Issues, Wastage, and Inventory Management
 ![image](https://github.com/user-attachments/assets/c4f0e9b5-7ab5-4902-ba68-374c94a38615)
 
 ***Disclaimer⚠️:** All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis on healthcare dataset*
 ## INTRODUCTION
-The **NHS Blood Stocks Management** aims to enhance blood inventory management across the supply chain. This project utilizes Power BI to analyze hospital component issues and wastage trends, focusing on Red Blood Cells, Platelets, and Frozen Plasma. Key insights reveal strong issue-wastage correlations, seasonal patterns, and major wastage causes like Time Expiry (TIMEX). The findings offer data-driven recommendations to optimize inventory management and minimize wastage for NHSBSM.
+The **IHS Blood Stocks Management** aims to enhance blood inventory management across the supply chain. This project utilizes Power BI to analyze hospital component issues and wastage trends, focusing on Red Blood Cells, Platelets, and Frozen Plasma. Key insights reveal strong issue-wastage correlations, seasonal patterns, and major wastage causes like Time Expiry (TIMEX). The findings offer data-driven recommendations to optimize inventory management and minimize wastage for NHSBSM.
 ![image](https://github.com/user-attachments/assets/b256cb67-793a-4229-94ab-b1581ecf4cad)
 
 ## PROBLEM STATEMENT
@@ -12,7 +12,7 @@ The **NHS Blood Stocks Management** aims to enhance blood inventory management a
 ## AIM OF THE PROJECT
 - **Analyze Trends:** Identify patterns in hospital component issues and wastage using Power BI to understand their correlation and root causes.
 - **Optimize Inventory Management:** Provide data-driven insights to reduce wastage, especially from Time Expiry (TIMEX), and improve blood supply efficiency.
-- **Enhance Decision-Making:** Support NHSBSM with strategic recommendations for better forecasting, allocation, and utilization of blood components.
+- **Enhance Decision-Making:** Support IHSBSM with strategic recommendations for better forecasting, allocation, and utilization of blood components.
 
 ## METHODOLOGY 
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
